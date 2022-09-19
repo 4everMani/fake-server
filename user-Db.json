@@ -1,0 +1,19 @@
+{
+    "users" : [
+    {"id":1,"first_name":"Estella","last_name":"Minshaw","email":"eminshaw0@huffingtonpost.com","gender":"Bigender"},
+    {"id":2,"first_name":"Marmaduke","last_name":"Broose","email":"mbroose1@stanford.edu","gender":"Bigender"},
+    {"id":3,"first_name":"Kevan","last_name":"Garbert","email":"kgarbert2@ed.gov","gender":"Male"},
+    {"id":4,"first_name":"Charmane","last_name":"Wildblood","email":"cwildblood3@tinyurl.com","gender":"Agender"},
+    {"id":5,"first_name":"Pryce","last_name":"Gallatly","email":"pgallatly4@desdev.cn","gender":"Male"},
+    {"id":6,"first_name":"Johnny","last_name":"Heaney","email":"jheaney5@usda.gov","gender":"Male"},
+    {"id":7,"first_name":"Benn","last_name":"Tams","email":"btams6@diigo.com","gender":"Male"},
+    {"id":8,"first_name":"Kirstin","last_name":"Spurrior","email":"kspurrior7@linkedin.com","gender":"Female"},
+    {"id":9,"first_name":"Cosette","last_name":"Warre","email":"cwarre8@ft.com","gender":"Female"},
+    {"id":10,"first_name":"Guenevere","last_name":"Patershall","email":"gpatershall9@newyorker.com","gender":"Female"},
+    {"id":11,"first_name":"Barth","last_name":"Tibbotts","email":"btibbottsa@woothemes.com","gender":"Male"},
+    {"id":12,"first_name":"Tiphani","last_name":"Duley","email":"tduleyb@dagondesign.com","gender":"Female"},
+    {"id":13,"first_name":"Richmound","last_name":"Keats","email":"rkeatsc@umich.edu","gender":"Male"},
+    {"id":14,"first_name":"Robina","last_name":"Donn","email":"rdonnd@hao123.com","gender":"Female"},
+    {"id":15,"first_name":"Berkeley","last_name":"Beahan","email":"bbeahane@uol.com.br","gender":"Male"}
+    ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "fake-server for nagp exam",
+  "main": "server.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4everMani/fake-server.git"
+  },
+  "author": "manish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/4everMani/fake-server/issues"
+  },
+  "homepage": "https://github.com/4everMani/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
